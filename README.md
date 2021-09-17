@@ -2,8 +2,6 @@
 
 framework - Hive
 
-Env - GCP
-
 Files - .CSV, Docs, pptx
 
 mode - lfs and cluster
@@ -28,7 +26,7 @@ table name - student_detail (master table )
  # All Steps - 
  
 
-1 - load the data from local machine to GCP.
+1 - load the data from local machine
 
 2 - go to inside hive using command ( HIVE )
 
